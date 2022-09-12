@@ -1,2 +1,2 @@
 # luizacode-py
-Atividades LuizaCode
+Atividades em Python - LuizaCode 
